@@ -114,7 +114,7 @@ Each route is an object which contains a key to identify it, and a "name" to des
 {
   key: 'B',
   name: 'Profile',
-  params: { id: '123' }
+  params: { id: '1234' }
 }
 ```
 
